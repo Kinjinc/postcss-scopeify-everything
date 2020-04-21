@@ -1,28 +1,11 @@
 {
-  "name": "postcss-scopeify-everything",
-  "version": "0.7.1",
+  "name": "postcss-herb-plugin",
+  "version": "0.0.1",
   "description": "PostCSS plugin to scopify every CSS selector",
   "main": "index.js",
-  "repository": "git@github.com:neurosnap/postcss-scopeify-everything.git",
-  "scripts": {
-    "test": "tape-dots test.js"
-  },
   "keywords": [
-    "scope",
-    "scopify",
-    "scopeify",
-    "everything",
-    "selector",
-    "css",
-    "class",
-    "element",
-    "id",
-    "keyframes",
-    "font-face",
-    "postcss",
-    "plugin"
   ],
-  "author": "Eric Bower",
+  "author": "herb",
   "license": "MIT",
   "dependencies": {
     "postcss-safe-parser": "^2.0.0"
